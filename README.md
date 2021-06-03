@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhmedSherif133
-- 👀 I’m interested in network engineering 
+- 👀 I’m interested in network 
 - 🌱 I’m currently learning network fundamental 
 - 💞️ I’m looking to collaborate on my felid 
 - 📫 How to reach me engineer.a7medsherif@gmail.com
